@@ -1,0 +1,1 @@
+grant CREATE, ALTER, DROP, REFERENCES ON *.* to dbuser;
